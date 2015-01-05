@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyINSTRGRMviewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_download_pictures">Download</string>
+
+    <string name="Client_ID">09dec0dbc8fa4a3c8222bd6e6da7a005</string>
+    <string name="Client_Secret">c804f8fc96634c7fa97ef6fc6f33f243</string>
+
+    <string name="no_network_connection_toast">No network connection found</string>
+    <string name="clear_cache_menu">Clear Caches</string>
+    <string name="clear_cache_complete_toast">Caches have been cleared</string>
+    <string name="imageview_description">Image Thumbnail</string>
+
+</resources>
